@@ -1,0 +1,44 @@
+{
+    "id": "tbot",
+    "iconURL": "tbot/imgs/lALPBE1XYi3KSRXNAUDNAUA_320_320.png",
+    "coverURL": "./res/lALPBE1XYi3KSRXNAUDNAUA_320_320.png",
+    "name": {
+        "zh": "TBot",
+        "de": "TBot",
+        "es": "TBot",
+        "fr": "TBot",
+        "id": "TBot",
+        "ja": "TBot",
+        "ja-jph": "TBot",
+        "ko": "TBot",
+        "pl": "TBot",
+        "uk": "TBot",
+        "zh-hant": "TBot",
+        "nl": "TBot",
+        "it": "TBot",
+        "hr": "TBot",
+        "ru": "TBot",
+        "pt": "TBot",
+        "fi": "TBot",
+        "tr": "TBot",
+        "tk": "TBot",
+        "en": "TBot"
+    },
+    "description": {},
+    "main": "tbot/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": true,
+    "sortId": 999,
+    "version": "0.0.0",
+    "extApiVersion": [],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "",
+    "feature": [
+        "worker"
+    ]
+}
