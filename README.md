@@ -19,23 +19,23 @@ por su plugin del TBot para [mBlock 3.4](https://github.com/chanum/mBlockPlugInF
 
 |Puerto|Identificador|     Función     |Entrada|Salida |
 |:----:|:------------|:---------------:|:-----:|:-----:|
-|  C1  |Sensor 1     |Entrada Analógica|  [x]  |  [ ]  |
-|  C2  |Sensor 2     |Entrada Analógica|  [x]  |  [ ]  |
-|  C3  |Sensor 3     |Entrada Analógica|  [x]  |  [ ]  |
-|  C4  |Sensor 4     |Entrada Analógica|  [x]  |  [ ]  |
-|  C5  |Sensor 5     |Entrada Analógica|  [x]  |  [ ]  |
-|  B0  |Botón RUN    |Entrada Digital  |  [x]  |  [ ]  |
-|  B1  |Pin D9       |Pin Digital      |  [x]  |  [x]  |
-|  B2  |Pin D10      |Pin Digital      |  [x]  |  [x]  |
-|  B3  |Pin D11      |Pin Digital      |  [x]  |  [x]  |
-|  B4  |Pin D12      |Pin Digital      |  [x]  |  [x]  |
-|  B5  |Pin D13      |Led Interno      |  [ ]  |  [x]  |
-|  D6  |Motor 0      |M0 ENABLE        |  [ ]  |  [x]  |
-|  D5  |Motor 0      |M0 D0            |  [ ]  |  [x]  |
-|  D7  |Motor 0      |M0 D1            |  [ ]  |  [x]  |
-|  D3  |Motor 1      |M1 ENABLE        |  [ ]  |  [x]  |
-|  D4  |Motor 1      |M1 D0            |  [ ]  |  [x]  |
-|  D2  |Motor 1      |M1 D1            |  [ ]  |  [x]  |
+|  C1  |Sensor 1     |Entrada Analógica|   ✓   |       |
+|  C2  |Sensor 2     |Entrada Analógica|   ✓   |       |
+|  C3  |Sensor 3     |Entrada Analógica|   ✓   |       |
+|  C4  |Sensor 4     |Entrada Analógica|   ✓   |       |
+|  C5  |Sensor 5     |Entrada Analógica|   ✓   |       |
+|  B0  |Botón RUN    |Entrada Digital  |   ✓   |       |
+|  B1  |Pin D9       |Pin Digital      |   ✓   |   ✓   |
+|  B2  |Pin D10      |Pin Digital      |   ✓   |   ✓   |
+|  B3  |Pin D11      |Pin Digital      |   ✓   |   ✓   |
+|  B4  |Pin D12      |Pin Digital      |   ✓   |   ✓   |
+|  B5  |Pin D13      |Led Interno      |       |   ✓   |
+|  D6  |Motor 0      |M0 ENABLE        |       |   ✓   |
+|  D5  |Motor 0      |M0 D0            |       |   ✓   |
+|  D7  |Motor 0      |M0 D1            |       |   ✓   |
+|  D3  |Motor 1      |M1 ENABLE        |       |   ✓   |
+|  D4  |Motor 1      |M1 D0            |       |   ✓   |
+|  D2  |Motor 1      |M1 D1            |       |   ✓   |
 ## Categorias de bloques
 
 * tbot
