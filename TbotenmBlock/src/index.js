@@ -680,7 +680,7 @@ class ExtTbot {
                 },
                 "settings": [],
                 "categoriesOrder": [
-                    "cate_c6bbe31e",
+                    "tbot",
                     "events",
                     "control",
                     "operators",

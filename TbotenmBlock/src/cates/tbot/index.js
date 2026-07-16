@@ -1,7 +1,7 @@
 import blocks from './blocks.js';
 
-const cate_c6bbe31e = (facepanels) => ({
-    "name": "cate_c6bbe31e",
+const tbot = (facepanels) => ({
+    "name": "tbot",
     "colors": [
         "#4A90E2",
         "#3080DE",
@@ -83,4 +83,4 @@ const cate_c6bbe31e = (facepanels) => ({
     }
 });
 
-export default cate_c6bbe31e;
+export default tbot;

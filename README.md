@@ -15,15 +15,34 @@ por su plugin del TBot para [mBlock 3.4](https://github.com/chanum/mBlockPlugInF
 
 ## Arbol de directorios
 
+## Tabla de entrada/salida
+
+|Puerto|Identificador|     Función     |Entrada|Salida |
+|:----:|:------------|:---------------:|:-----:|:-----:|
+|  C1  |Sensor 1     |Entrada Analógica|  [x]  |  [ ]  |
+|  C2  |Sensor 2     |Entrada Analógica|  [x]  |  [ ]  |
+|  C3  |Sensor 3     |Entrada Analógica|  [x]  |  [ ]  |
+|  C4  |Sensor 4     |Entrada Analógica|  [x]  |  [ ]  |
+|  C5  |Sensor 5     |Entrada Analógica|  [x]  |  [ ]  |
+|  B0  |Botón RUN    |Entrada Digital  |  [x]  |  [ ]  |
+|  B1  |Pin D9       |Pin Digital      |  [x]  |  [x]  |
+|  B2  |Pin D10      |Pin Digital      |  [x]  |  [x]  |
+|  B3  |Pin D11      |Pin Digital      |  [x]  |  [x]  |
+|  B4  |Pin D12      |Pin Digital      |  [x]  |  [x]  |
+|  B5  |Pin D13      |Led Interno      |  [ ]  |  [x]  |
+|  D6  |Motor 0      |M0 ENABLE        |  [ ]  |  [x]  |
+|  D5  |Motor 0      |M0 D0            |  [ ]  |  [x]  |
+|  D7  |Motor 0      |M0 D1            |  [ ]  |  [x]  |
+|  D3  |Motor 1      |M1 ENABLE        |  [ ]  |  [x]  |
+|  D4  |Motor 1      |M1 D0            |  [ ]  |  [x]  |
+|  D2  |Motor 1      |M1 D1            |  [ ]  |  [x]  |
 ## Categorias de bloques
 
-* Entradas
-  - Sensor <n> (número del adc de los sensores)
-  - Botón RUN (estado booleano del botón RUN)
-
-* Salidas
-  - Led <estado> (establece el estado del LED de la placa)
-  - Motor <n> DC <Duty> (establece el DC de una de las dos salidas pwm)
-
-* Otros
-  - Sería sensato establecer bloques para el puerto serie
+* tbot
+   - Iniciar Programa
+   - Sensor [n]
+   - Botón RUN [Estado]
+   - Motor [n] DC [DC]
+   - Led [Estado]
+   - Digital [n] [Estado]
+   - Digital [n]

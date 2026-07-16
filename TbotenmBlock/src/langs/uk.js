@@ -24,5 +24,5 @@ export default {
     "DIN_PB_DIG_STATUS_1": "Bajo",
     "din_pb": "Digital [dig_slct] [dig_status] ",
     "dout_pb": "Digital [dig_slct]",
-    "cate_c6bbe31e": "TBot"
+    "tbot": "TBot"
 };

@@ -632,7 +632,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "de": {
       "tbot": "TBot",
@@ -660,7 +660,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "es": {
       "tbot": "TBot",
@@ -688,7 +688,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "fr": {
       "tbot": "TBot",
@@ -716,7 +716,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "id": {
       "tbot": "TBot",
@@ -744,7 +744,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "ja": {
       "tbot": "TBot",
@@ -772,7 +772,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "ja-jph": {
       "tbot": "TBot",
@@ -800,7 +800,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "ko": {
       "tbot": "TBot",
@@ -828,7 +828,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "pl": {
       "tbot": "TBot",
@@ -856,7 +856,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "uk": {
       "tbot": "TBot",
@@ -884,7 +884,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "zh-hant": {
       "tbot": "TBot",
@@ -912,7 +912,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "nl": {
       "tbot": "TBot",
@@ -940,7 +940,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "it": {
       "tbot": "TBot",
@@ -968,7 +968,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "hr": {
       "tbot": "TBot",
@@ -996,7 +996,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "ru": {
       "tbot": "TBot",
@@ -1024,7 +1024,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "pt": {
       "tbot": "TBot",
@@ -1052,7 +1052,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "fi": {
       "tbot": "TBot",
@@ -1080,7 +1080,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "tr": {
       "tbot": "TBot",
@@ -1108,7 +1108,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "tk": {
       "tbot": "TBot",
@@ -1136,7 +1136,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     },
     "en": {
       "tbot": "TBot",
@@ -1164,7 +1164,7 @@
       "DIN_PB_DIG_STATUS_1": "Bajo",
       "din_pb": "Digital [dig_slct] [dig_status] ",
       "dout_pb": "Digital [dig_slct]",
-      "cate_c6bbe31e": "TBot"
+      "tbot": "TBot"
     }
   };
   const codeSnippets = {
@@ -1456,13 +1456,13 @@ void loop() {
             "firmware": {}
           },
           "settings": [],
-          "categoriesOrder": ["cate_c6bbe31e", "events", "control", "operators", "data", "myBlocks"]
+          "categoriesOrder": ["tbot", "events", "control", "operators", "data", "myBlocks"]
         },
         "codeTypes": ["arduinoc"],
         "version": "0.0.0",
         "platform": ["mblockpc", "mblockweb"],
         "categories": [{
-          "name": "cate_c6bbe31e",
+          "name": "tbot",
           "colors": ["#4A90E2", "#3080DE", "#2171CF"],
           "menuIconURI": "",
           "blockIcon": null,
