@@ -19,6 +19,7 @@ por su plugin del TBot para [mBlock 3.4](https://github.com/chanum/mBlockPlugInF
 
 |Puerto|Identificador|     Función     |Entrada|Salida |
 |:----:|:------------|:---------------:|:-----:|:-----:|
+|  C0  |Sensor 0     |Entrada Analógica|   ✓   |       |
 |  C1  |Sensor 1     |Entrada Analógica|   ✓   |       |
 |  C2  |Sensor 2     |Entrada Analógica|   ✓   |       |
 |  C3  |Sensor 3     |Entrada Analógica|   ✓   |       |
