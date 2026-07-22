@@ -11,14 +11,14 @@
 
 /* Apagado del buffer digital */
 #define SENSOR_DIDR ((1<<ADC5D)|(1<<ADC4D)|(1<<ADC3D)| \
-                     (1<<ADC2D)|(1<<ADC2D)|(1<<ADC2D))
+                     (1<<ADC2D)|(1<<ADC1D)|(1<<ADC0D))
 
 void 
 configurar_analogico(void) 
 {
   /* Se declaran los pines de sensores como entradas sin pull-up */
-  DDRC &= (uint8_t)~SENSOR_PINES;
-  DDRC |= (uint8_t)~SENSOR_PINES;
+  DDRC  &= ~SENSOR_PINES;
+  PORTC |= ~SENSOR_PINES;
 
   /* Se apaga el buffer digital, reduciendo ruido y consumo energético*/
   DIDR0 |= SENSOR_DIDR;
